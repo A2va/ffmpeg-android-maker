@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 ./configure \
     --prefix=${INSTALL_DIR} \

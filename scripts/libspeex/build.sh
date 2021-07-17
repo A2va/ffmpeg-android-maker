@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 ADDITIONAL_FLAGS=
 if [[ $ANDROID_ABI = "x86" ]] || [[ $ANDROID_ABI = "x86_64" ]]; then

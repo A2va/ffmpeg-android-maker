@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # The Wavpack may reqire libiconv for proper work
 # Consider building it and passing via --with-iconv

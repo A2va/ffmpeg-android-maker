@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 X264_AS=${FAM_CC}
 

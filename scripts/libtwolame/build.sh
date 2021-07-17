@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # TODO Consider adding a dependency - libsndfile
 

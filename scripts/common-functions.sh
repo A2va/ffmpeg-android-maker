@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # Function that downloads an archive with the source code by the given url,
 # extracts its files and exports a variable SOURCES_DIR_${LIBRARY_NAME}

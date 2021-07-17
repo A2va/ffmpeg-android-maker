@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # libaom doesn't support building while being in its root directory
 CMAKE_BUILD_DIR=aom_build_${ANDROID_ABI}

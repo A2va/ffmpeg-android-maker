@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 case $ANDROID_ABI in
   x86)
